@@ -1,49 +1,33 @@
-# 👋 Hi there, I'm Seif Hatem! 
+### Hi there 👋
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🚀 Flutter Developer | 🌱 Sustainable Development Advocate | 🎯 Aspiring Googler  
+### I'm Seif Eldin Hatem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
 
-Welcome to my GitHub profile! I’m a **4th-year Computer Science student** with over **2 years of experience** in Flutter and Dart, building **responsive, cross-platform applications** with clean code principles and efficient state management.  
-My journey has been shaped by **passion for learning** and **commitment to innovation**
+### A Student, Developer
 
----
+- 🔭 Final-year Computer Science student.
+- 🌱 Learning advanced Flutter techniques.
+- 👯 Open to collaborating on Flutter projects and tech ideas.
+- 🤔 Seeking help to enhance my portfolio and enter the tech industry.
 
-### 🌟 **What I Do**:
-- **👨‍💻 Flutter Development:** Proficient in building scalable apps using **APIs**, **Firebase**, and custom widgets.
-- **⚙️ Clean Code:** Studying best practices to craft maintainable and scalable software (inspired by *Clean Code* by Robert C. Martin).
-- **💡 Problem-Solving:** Tackling UI/UX challenges like layout issues and responsive design.
+-->
 
----
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-### 🔗 **Connect With Me**:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifhatem916)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://saifhatem.github.io/)  
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://saifhatem.github.io/)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/seif.hatem.562?mibextid=ZbWKwL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifhatem916)
 
----
-
-### ⚡ **Tech Stack**:
-
-#### **Languages**  
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)  
-
-#### **Frameworks & Tools**  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black)  
-![Mocktail](https://img.shields.io/badge/Mocktail-%236CBF2C.svg?logo=testcafe&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)  
-
-#### **Tools & IDEs**  
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?logo=android-studio&logoColor=white)  
-
----
+# 💻 Tools & Technology 🛠:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 ### 📈 **GitHub Stats**
-
 ![Seif's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeifHatem&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeifHatem&layout=compact&theme=radical)
 
----
 
-🌟 **"Stay curious, keep coding, and aim high!"**
+### 🌟 **"Stay curious, keep coding, and aim high!"**
+
+
+<br>
