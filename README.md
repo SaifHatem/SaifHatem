@@ -46,11 +46,4 @@ My journey has been shaped by **passion for learning** and **commitment to innov
 
 ---
 
-### 🛠️ **Current Projects**
-- 📱 **Custom Credit Card Widget** for Flutter, replacing flutter_credit_card.
-- 🌐 Building a **responsive portfolio website** for mobile, tablet, and desktop views using Flutter.
-- 🧪 Implementing **unit testing with Mocktail** for Flutter projects.
-
----
-
 🌟 **"Stay curious, keep coding, and aim high!"**
